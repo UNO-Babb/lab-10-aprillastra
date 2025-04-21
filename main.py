@@ -7,13 +7,13 @@ import food
 import pandas as pd 
 import matplotlib.pyplot as plt
 
-report = food.get_report()
+food = food.get_food()
 
 names = []
 calories = []
 protein = []
 
-for item in report: 
+for item in food: 
     try: 
         name = item["Description"]
         cal = item["Data"]["Calories"]
