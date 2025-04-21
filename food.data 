@@ -1,0 +1,98 @@
+[
+    {
+        "Name": "Whole Milk",
+        "Category": "Dairy",
+        "Description": "Whole milk from cow",
+        "Protein": 7.9,
+        "Carbohydrate": 11.2,
+        "Sugar Total": 12.3,
+        "Water": 87.5,
+        "Calories": 150,
+        "Fat": {
+            "Monosaturated Fat": 1.7,
+            "Polysaturated Fat": 0.5,
+            "Saturated Fat": 2.0,
+            "Total Lipid": 4.8
+        },
+        "Major Minerals": {
+            "Calcium": 276,
+            "Iron": 0.1,
+            "Magnesium": 24,
+            "Potassium": 322,
+            "Sodium": 98,
+            "Zinc": 0.9
+        },
+        "Vitamins": {
+            "Vitamin C": 0,
+            "Vitamin B6": 0.1,
+            "Vitamin B12": 1.1,
+            "Vitamin D": 2.5,
+            "Vitamin E": 0.2,
+            "Vitamin K": 0
+        }
+    },
+    {
+        "Name": "Chicken Breast",
+        "Category": "Protein",
+        "Description": "Boneless, skinless grilled chicken breast",
+        "Protein": 31,
+        "Carbohydrate": 0,
+        "Sugar Total": 0,
+        "Water": 65.0,
+        "Calories": 165,
+        "Fat": {
+            "Monosaturated Fat": 1.2,
+            "Polysaturated Fat": 0.4,
+            "Saturated Fat": 1.0,
+            "Total Lipid": 3.6
+        },
+        "Major Minerals": {
+            "Calcium": 13,
+            "Iron": 0.9,
+            "Magnesium": 29,
+            "Potassium": 256,
+            "Sodium": 74,
+            "Zinc": 1.0
+        },
+        "Vitamins": {
+            "Vitamin C": 0,
+            "Vitamin B6": 0.7,
+            "Vitamin B12": 0.3,
+            "Vitamin D": 0.1,
+            "Vitamin E": 0.27,
+            "Vitamin K": 0.2
+        }
+    },
+    {
+        "Name": "Broccoli",
+        "Category": "Vegetable",
+        "Description": "Boiled chopped broccoli",
+        "Protein": 2.5,
+        "Carbohydrate": 11.2,
+        "Sugar Total": 2.2,
+        "Water": 89.3,
+        "Calories": 55,
+        "Fat": {
+            "Monosaturated Fat": 0.02,
+            "Polysaturated Fat": 0.04,
+            "Saturated Fat": 0.1,
+            "Total Lipid": 0.3
+        },
+        "Major Minerals": {
+            "Calcium": 47,
+            "Iron": 0.7,
+            "Magnesium": 21,
+            "Potassium": 293,
+            "Sodium": 33,
+            "Zinc": 0.4
+        },
+        "Vitamins": {
+            "Vitamin C": 64.9,
+            "Vitamin B6": 0.2,
+            "Vitamin B12": 0,
+            "Vitamin D": 0,
+            "Vitamin E": 1.5,
+            "Vitamin K": 101.6
+        }
+    }
+]
